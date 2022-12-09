@@ -1,0 +1,16 @@
+data/MNIST/raw/t10k-images-idx3-ubyte
+data/MNIST/raw/t10k-images-idx3-ubyte.gz
+data/MNIST/raw/t10k-labels-idx1-ubyte
+data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+data/MNIST/raw/train-images-idx3-ubyte
+data/MNIST/raw/train-images-idx3-ubyte.gz
+data/MNIST/raw/train-labels-idx1-ubyte
+data/MNIST/raw/train-labels-idx1-ubyte.gz
+weights/n_epochs_0_new.pt
+weights/n_epochs_0.pt
+weights/n_epochs_1_new.pt
+weights/n_epochs_2_new.pt
+weights/n_epochs_3_new.pt
+weights/n_epochs_4_new.pt
+weights/n_epochs_5_new.pt
+weights/n_epochs_14.pt
